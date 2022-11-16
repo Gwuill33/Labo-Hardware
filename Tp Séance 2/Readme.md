@@ -1,1 +1,13 @@
-Dell G15 5520 Intel Core i7-12700H Portable Gaming 15.6" Full HD Dark Shadow Grey 16Go de RAM SSD 512Go NVIDIA GeForce RTX 3060
+
+---
+|Filière|Ref|POURQUOI ?|
+|-|-|-|
+|Informatique|[Dell G15 5520]()||
+|Création & Digital Design|||
+|Audiovisuel |||
+|Marketing Communication|||
+|Tech & Business |||
+|2D & Illustration digital|||
+|3D, Animation & Jeux vidéos|||
+|Architecture d'interieur|||
+---
