@@ -1,0 +1,1 @@
+Dell G15 5520 Intel Core i7-12700H Portable Gaming 15.6" Full HD Dark Shadow Grey 16Go de RAM SSD 512Go NVIDIA GeForce RTX 3060
